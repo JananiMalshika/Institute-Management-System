@@ -2,7 +2,7 @@
 First Client Based MERN Stack Project for Second Year Second Semester Project
 # Contributors
 
-### * Malshika M.D.J ([JananiMalshika][JananiMalshika])
+### Malshika M.D.J ([JananiMalshika]*[JananiMalshika])
 ### H.A Hasith Deminda ([HasithDeminda][HasithDeminda])
 ### Ahamed M.M.Z. ([zaiidahamed][zaiidahamed])
 ### Wijewardena O.K. ([OKWijewardena][OKWijewardena])
