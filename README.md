@@ -2,7 +2,7 @@
 First MERN Stack Project for Second Year Second Semester Project
 # Contributors
 
-# Member 1 - IT20002824 - Malshika M.D.J ([JananiMalshika][JananiMalshika])
+#### Member 1 - IT20002824 - Malshika M.D.J ([JananiMalshika][JananiMalshika])
 # Member 2 - IT20238612 - H.A Hasith Deminda ([HasithDeminda][HasithDeminda])
 # Member 3 - IT20081416 - Ahamed M.M.Z. ([zaiidahamed][zaiidahamed])
 # Member 4 - IT20070458 - Wijewardena O.K. ([OKWijewardena][OKWijewardena])
